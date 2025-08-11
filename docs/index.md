@@ -3,4 +3,4 @@
 ## Basic Syntax
 
 
-- [Variables](./Basic Sytax/variables.md)
+- [Variables](./Basic Syntax/variables.md)
