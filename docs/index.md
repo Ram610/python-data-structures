@@ -13,3 +13,7 @@
 ## Functions
 
 - [Functions](./Functions/functions.md)
+
+## Data Structures
+
+- [Lists](./Data_structures/lists.md)
