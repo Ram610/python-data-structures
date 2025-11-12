@@ -40,57 +40,34 @@
 ## Advanced Topics
 
 ### Modules and Packages
-- Importing modules
-- Creating custom modules
-- Package management with pip
+- [Modules and Packages](./Modules_and_Packages/modules_and_packages.md)
 
 ### List Comprehensions & Generators
-- List comprehensions
-- Dictionary comprehensions
-- Generator expressions
+- [Comprehensions and Generators](./Comprehensions_and_Generators/comprehensions_and_generators.md)
 
 ### Decorators
 - [Decorators](./Decorators/decorators.md)
 
 ### Iterators
-- Creating iterators
-- Iterator protocol
-- Custom iterators
+- [Iterators](./Iterators/iterators.md)
 
 ### Regular Expressions
-- Pattern matching
-- Searching and replacing
-- Common regex patterns
+- [Regular Expressions](./Regular_Expressions/regular_expressions.md)
 
 ### Virtual Environments
-- Using venv
-- Managing dependencies
-- requirements.txt
+- [Virtual Environments](./Virtual_Environments/virtual_environments.md)
 
 ### Unit Testing
-- unittest framework
-- pytest framework
-- Test-driven development
+- [Unit Testing](./Unit_Testing/unit_testing.md)
 
 ### Popular Libraries
-- NumPy for numerical computing
-- pandas for data analysis
-- matplotlib for visualization
-- requests for HTTP
+- [Popular Libraries](./Popular_Libraries/popular_libraries.md)
 
 ### Algorithms & Data Structures
-- Sorting algorithms
-- Searching algorithms
-- Stack implementation
-- Queue implementation
-- Tree structures
+- [Algorithms](./Algorithms/algorithms.md)
 
 ### Debugging Techniques
-- Using print statements
-- Logging module
-- Python debugger (pdb)
+- [Debugging](./Debugging/debugging.md)
 
 ### Python Internals
-- Memory management
-- Garbage collection
-- Global Interpreter Lock (GIL)
+- [Python Internals](./Python_Internals/python_internals.md)
