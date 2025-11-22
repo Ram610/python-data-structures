@@ -71,3 +71,12 @@
 
 ### Python Internals
 - [Python Internals](./Python_Internals/python_internals.md)
+
+## Data Science
+
+- [Linear Regression](./DataScience/LinearRegression.md)
+- [Logistic Regression](./DataScience/LogisticRegression.md)
+- [Decision Tree](./DataScience/DecisionTree.md)
+- [KNN](./DataScience/KNN.md)
+- [SVM](./DataScience/SVM.md)
+- [K-Means Clustering](./DataScience/KMeans.md)
